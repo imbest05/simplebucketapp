@@ -16,10 +16,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 '''C
 
+###시연 화면
 
+
+<img src = "https://github.com/imbest05/simplebucketapp/assets/86451591/d35860c5-c484-4ffd-aa3f-8c5b93add113.jpg" width="300" height="300">
 
   
-###  인 앱브라우저 화면
+###  인 앱브라우저 화면코드
+
   ```
   import 'package:flutter/material.dart';
 
