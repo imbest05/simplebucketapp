@@ -14,6 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+'''C
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -136,6 +137,8 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
+  
+  
   void showDeleteDialog(BuildContext context, int index) {
     showDialog(
       context: context,
@@ -170,7 +173,7 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
-  
+  '''
 
   ### 버킷 생성 화면
   
